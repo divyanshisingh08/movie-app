@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/divyanshisingh08/movie-app.git/static/css/main.e6c13ad2.css",
+    "main.js": "/divyanshisingh08/movie-app.git/static/js/main.0f7b6840.js",
+    "index.html": "/divyanshisingh08/movie-app.git/index.html",
+    "main.e6c13ad2.css.map": "/divyanshisingh08/movie-app.git/static/css/main.e6c13ad2.css.map",
+    "main.0f7b6840.js.map": "/divyanshisingh08/movie-app.git/static/js/main.0f7b6840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0f7b6840.js"
+  ]
+}
